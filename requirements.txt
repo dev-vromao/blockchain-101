@@ -1,0 +1,18 @@
+# EduChain - Requisitos
+
+# Python 3.7 ou superior necessário
+# Não há dependências externas!
+
+# Bibliotecas da standard library utilizadas:
+# - hashlib (criptografia)
+# - json (serialização)
+# - time (timestamps)
+# - threading (concorrência)
+# - dataclasses (estruturas de dados)
+# - typing (type hints)
+# - datetime (manipulação de datas)
+
+# Para desenvolvimento (opcional):
+# pytest>=7.0.0  # Para testes
+# black>=22.0.0  # Para formatação de código
+# mypy>=0.950    # Para checagem de tipos
